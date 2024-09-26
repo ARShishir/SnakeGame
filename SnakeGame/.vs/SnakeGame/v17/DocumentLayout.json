@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Snake Game\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4CE95F-80D5-4016-B0C8-E9089A3EC5FC}|SnakeGame\\SnakeGame.vcxproj|D:\\Snake Game\\SnakeGame\\SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F4CE95F-80D5-4016-B0C8-E9089A3EC5FC}|SnakeGame\\SnakeGame.vcxproj|solutionrelative:SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeGame.cpp",
+              "DocumentMoniker": "D:\\Snake Game\\SnakeGame\\SnakeGame\\SnakeGame.cpp",
+              "RelativeDocumentMoniker": "SnakeGame\\SnakeGame.cpp",
+              "ToolTip": "D:\\Snake Game\\SnakeGame\\SnakeGame\\SnakeGame.cpp",
+              "RelativeToolTip": "SnakeGame\\SnakeGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T20:14:48.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
